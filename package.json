@@ -9,7 +9,7 @@
     "c++",
     "ffi"
   ],
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
     "type": "git",
@@ -27,6 +27,6 @@
     "bindings": "~1.2.0",
     "nan": "https://atom.io/download/atom-shell/nan-1.6.1.tgz",
     "mocha": "*",
-    "ref-array-atomshell-paulcbetts": "*"
+    "ref-array-atomshell-paulcbetts": "~2.0.1"
   }
 }
