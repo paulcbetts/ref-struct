@@ -1,5 +1,5 @@
 {
-  "name": "ref-struct",
+  "name": "ref-struct-atomshell-paulcbetts",
   "description": "Create ABI-compliant \"struct\" instances on top of Buffers",
   "keywords": [
     "struct",
@@ -21,12 +21,12 @@
   },
   "dependencies": {
     "debug": "2",
-    "ref": "git+https://github.com/paulcbetts/ref#120326e1ba2ed76c89ffc12380b066fb633751f1"
+    "ref-atomshell-paulcbetts": "*"
   },
   "devDependencies": {
     "bindings": "~1.2.0",
     "nan": "https://atom.io/download/atom-shell/nan-1.6.1.tgz",
     "mocha": "*",
-    "ref-array": "~0.0.3"
+    "ref-array-atomshell-paulcbetts": "*"
   }
 }
